@@ -1,0 +1,16 @@
+{
+  "rules": {
+    ".read": false,  // Disable global read access for public
+    ".write": "auth != null",  // Only authenticated users can write globally
+    "queries": {
+      ".read": "auth != null",  // Only authenticated users can read queries
+      ".write": true  // Allow anyone (even unauthenticated users) to write to the queries node
+    },
+    "users": {
+      "$uid": {
+        ".read": "$uid === auth.uid",  // Users can only read their own data
+        ".write": "$uid === auth.uid"  // Users can only write to their own data
+      }
+    }
+  }
+}
