@@ -105,7 +105,7 @@ Once the application is running, users can register or log in to their accounts.
 
 <hr>
 
-## Demo -> [Live site](https://counsellor-startup.netlify.app/)
+
 
 
 
