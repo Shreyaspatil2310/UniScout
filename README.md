@@ -1,4 +1,4 @@
-# Counsellor 👨‍🏫
+# UniScout 👨‍🏫
 
 The web application, built using ReactJS, is designed to assist students in making informed decisions regarding their undergraduate studies. It provides a platform for students to explore and choose the right stream/branch that aligns with their interests and career aspirations. Additionally, the app leverages real and honest insights from current college students to help students choose the right and convenient college based on their specific needs and preferences. This app serves as a valuable resource for students looking to make the most of their undergraduate education and embark on a successful career path.
 
@@ -164,47 +164,9 @@ Once the application is running, users can register or log in to their accounts.
 
 
 
-<hr>
-
-## Contributing 🎉
-
-Contributions to Counsellor are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue on the GitHub repository.
-
-Before contributing, please review the [Contributing Guidelines](CONTRIBUTING.md).
-
-<hr>
-
-## License 🪪
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-<hr>
-
-## Connect with us 🖇️
-
-[![Discord](https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg)](https://discord.com/channels/1099745007172329592/1112438805589413909)
-<a href="https://join.slack.com/t/counselllor/shared_invite/zt-1w7zos2td-lZBc_52HNvr8Jtvpt4gR5g" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="Slack" width="70" height="55">
-</a>
-
-<hr>
-
-## Contact 📞
-
-## Contributing 
-For any inquiries or questions regarding Counsellor, please contact the project owner: [Sahil Ali ](https://github.com/thestarsahil).
-<p align="center">
-  <a href="https://github.com/thestarsahil">
-    <img src="https://github.com/thestarsahil.png" width="120" height="120" alt="thestarsahil" />
-  </a>
-</p>
 
 
-Thank you for your interest in Counsellor! We hope it can provide valuable support to those in need.
-=======
-## Contributors
-<p align="center">
-  <a href="https://github.com/thestarsahil/Counsellor/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=thestarsahil/Counsellor" />
-</a>
-</p>
+
+
+
+
